@@ -227,42 +227,7 @@ summary = analyzer.compare_trials(analyzed)
 print(summary['ai_insights'])
 ```
 
----
-
-## 🎬 **Demo Script** (3 Minutes)
-
-### **Live Demo Flow:**
-
-**1. Introduction** (30 sec)
-- "Trials Intel uses Gemini to automate clinical trial intelligence for pharma investors"
-- "Currently costs $100-500K/year for manual analysis"
-
-**2. Search Trials** (30 sec)
-- Enter: "Non-Small Cell Lung Cancer"
-- Show live data from ClinicalTrials.gov
-- Point out: Phase, Status, Enrollment
-
-**3. AI Classification** (60 sec)
-- Click "Analyze with Gemini"
-- Show therapeutic area classification
-- Highlight commercial potential assessment
-- Display market trends and investment opportunities
-
-**4. Multimodal Vision** (60 sec)
-- Click "Vision Demo"
-- Show survival curve analysis
-  - "Gemini extracts: 24.8 months treatment vs 11.2 months control"
-  - "Hazard ratio 0.42 - that's 58% reduction in mortality"
-- Show adverse events extraction
-- Display investment intelligence synthesis
-
-**5. Conclusion** (10 sec)
-- "Complete intelligence platform combining text + vision"
-- "Automated, scalable, and ready for production"
-
----
-
-## 🧪 **Validation**
+## **Validation**
 
 ### **Phase 1: ClinicalTrials.gov Integration** ✅
 ```bash
