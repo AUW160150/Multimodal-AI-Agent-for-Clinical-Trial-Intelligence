@@ -2,10 +2,6 @@
 
 **Multimodal AI Agent for Clinical Trial Intelligence**
 
-*Built with Google Gemini for Multimodal Agents Hackathon*
-
----
-
 ## 🎯 **The Problem**
 
 Pharmaceutical companies and VCs waste **millions** tracking competitor clinical trials:
@@ -412,59 +408,18 @@ This tool provides investment intelligence and should not be used as the sole ba
 
 ---
 
-## 🤝 **Contributing**
+## **Contributing**
 
 This was built for the **Cerebral Valley Multimodal Agents Hackathon**. 
 
-### **Team:**
-- [Your Name] - Full Stack Development
-- Built in 48 hours with Google Gemini
+
 
 ### **Acknowledgments:**
 - Google Gemini API for multimodal capabilities
 - ClinicalTrials.gov for public trial data
 - Cerebral Valley for hosting the hackathon
 
----
 
-## 📄 **License**
 
-MIT License - See LICENSE file for details.
 
----
 
-## 🔗 **Links**
-
-- **Demo Video:** [YouTube Link]
-- **Live Demo:** [Deployment URL if applicable]
-- **Slides:** [Presentation Link]
-- **GitHub:** [Repository URL]
-
----
-
-## 📞 **Contact**
-
-**Questions about Trials Intel?**
-- Email: [your-email]
-- Twitter: [@yourhandle]
-- LinkedIn: [your-profile]
-
-**For Investors/Partnerships:**
-- [Contact form or email]
-
----
-
-## 🎯 **Hackathon Submission Checklist**
-
-- [x] Uses Google Gemini as base model ✅
-- [x] Multimodal (text + vision) ✅
-- [x] Solves real commercial problem ✅
-- [x] Working demo ✅
-- [x] Open source code ✅
-- [x] Video demonstration ✅
-- [x] Clear value proposition ✅
-- [x] Novel approach (vision + trials) ✅
-
----
-
-**Built with ❤️ and Google Gemini for Cerebral Valley Hackathon 2025**
